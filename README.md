@@ -66,7 +66,8 @@ Interactive web app for real-time image reconstruction:
 ├── metrics_chart.png     — PSNR/SSIM charts
 └── README.md             — Project documentation
 
+
+```
 ## 👥 Authors 
 - **Adnan Ali**
 - **Muhammad Suleman**
-```
